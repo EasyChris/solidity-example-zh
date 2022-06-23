@@ -1,0 +1,13 @@
+{
+  "name": "solidity-example-zh",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  }
+}
